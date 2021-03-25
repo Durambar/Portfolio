@@ -19,3 +19,10 @@ C:\Users\maste\Documents\College\Intro to Software Development\C#\CollegeApp_V2\
 C:\Users\maste\Documents\College\Intro to Software Development\C#\CollegeApp_V2\CollegeApp_V1\CollegeApp_V1\bin\Debug\CollegeApp_V1.exe.config
 C:\Users\maste\Documents\College\Intro to Software Development\C#\CollegeApp_V2\CollegeApp_V1\CollegeApp_V1\bin\Debug\CollegeApp_V1.exe
 C:\Users\maste\Documents\College\Intro to Software Development\C#\CollegeApp_V2\CollegeApp_V1\CollegeApp_V1\bin\Debug\CollegeApp_V1.pdb
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\bin\Debug\CollegeApp_V1.exe.config
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\bin\Debug\CollegeApp_V1.exe
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\bin\Debug\CollegeApp_V1.pdb
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\obj\Debug\CollegeApp_V1.csprojAssemblyReference.cache
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\obj\Debug\CollegeApp_V1.csproj.CoreCompileInputs.cache
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\obj\Debug\CollegeApp_V1.exe
+D:\Personal Learning\Portfolio\CollegeApp_V1\CollegeApp_V1\obj\Debug\CollegeApp_V1.pdb

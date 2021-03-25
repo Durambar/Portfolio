@@ -1,0 +1,7 @@
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\obj\Debug\Assessment.csprojAssemblyReference.cache
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\maste\Documents\College\Programming Foundations\Assessment\Assessment\obj\Debug\Assessment.pdb
