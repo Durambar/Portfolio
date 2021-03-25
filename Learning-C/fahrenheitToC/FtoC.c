@@ -36,6 +36,4 @@ main()
     for(far=UPPER; far>=LOWER; far-=STEP)
         printf("%9d %9.1f\n",far,(5.0/9.0)*(far-32));
     
-        
-    
 }
