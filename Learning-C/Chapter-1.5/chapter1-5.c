@@ -1,17 +1,16 @@
 #include <stdio.h>
 
 /* copy input to output; 1st version */
-main()
+int main(void)
 {
     int c;
-    long nc;
+    while(1)
+    {
+        c = getchar();          // Get one character from the input
+        if (c==EOF) { break; }  // Exit the loop if we receive EOF ("end of file")
+        putchar(c);
+    }
 
-    printf("%d\n",EOF);
-    
-    nc = 0;
-    while(getchar()!=EOF)
-        ++nc;
-    printf("%1d\n",nc);
-    
+    printf("Success!");
 
 }
